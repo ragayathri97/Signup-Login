@@ -11,3 +11,4 @@ function signup(str){
     }
 }
 signup("Bob")
+signup("Bob")
