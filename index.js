@@ -10,5 +10,7 @@ function signup(str){
         console.log("Already registred....")
     }
 }
-signup("Bob")
-signup("Bob")
+signup("Gayu")
+signup("Gayu")
+
+
